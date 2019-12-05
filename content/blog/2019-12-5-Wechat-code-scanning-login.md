@@ -4,7 +4,7 @@ description: 为了简化账号配置环节，实现本地一键开发部署，S
 date: 2019-12-04
 thumbnail: https://main.qcloudimg.com/raw/7092b9d6acbd11220bd1fd433ef87f7d.png
 categories:
-  - best-practice
+  - news
 authors:
   - liujiang
 ---
@@ -77,8 +77,7 @@ functions:
 serverless deploy
 ```
 
-> 注：
-- 如果希望查看部署详情，可以通过调试模式的命令 serverless --debug 进行部署。
+> 注：如果希望查看部署详情，可以通过调试模式的命令 serverless --debug 进行部署。
 
 **如账号未登陆或注册腾讯云，可在运行该命令后，直接通过微信扫描命令行中的二维码，点击「去微信授权」，授权登录和注册。**
 
